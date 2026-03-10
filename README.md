@@ -124,7 +124,7 @@ Collaborative best-practices guide for reproducible data science project managem
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=SaraLuxmoore&color=blue&style=flat-square)
+#![Profile Views](https://komarev.com/ghpvc/?username=SaraLuxmoore&color=blue&style=flat-square)
 
 </div>
 
