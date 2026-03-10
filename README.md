@@ -118,11 +118,13 @@ Collaborative best-practices guide for reproducible data science project managem
 
 <div align="center">
   
-[![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraLuxmoore&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/SaraLuxmoore)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraLuxmoore&layout=compact&theme=default&hide_border=true&langs_count=8)](https://github.com/SaraLuxmoore)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraLuxmoore&theme=default&hide_border=true)](https://github.com/SaraLuxmoore)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=SaraLuxmoore&color=blue&style=flat-square)
 
 </div>
 
